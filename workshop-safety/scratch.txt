@@ -1,0 +1,3 @@
+Disposable workshop file.
+Permission test, round 1
+Permission test, round 2
